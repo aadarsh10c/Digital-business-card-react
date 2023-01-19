@@ -19,7 +19,26 @@ export default function Main (){
                     Linkedin
                 </a>
             </div>
-            <div className="content__info"></div>
+            <div className="content__info">
+                <div className="content__info-1">
+                    <h3 className="content__title-sub">
+                        About
+                    </h3>
+                    <p className="summary">
+                    I am a frontend developer with a particular interest in making things simple and automating daily tasks. 
+                    I try to keep up with security and best practices, and am always looking for new things to learn.
+                    </p>
+                </div>
+                <div className="content__info-2">
+                    <h3 className="content__title-sub">
+                        About
+                    </h3>
+                    <p className="summary">
+                    Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. 
+                    Travel geek. Pop culture ninja. Coffee fanatic.
+                    </p>
+                </div>
+            </div>
         </main>
     );
 }

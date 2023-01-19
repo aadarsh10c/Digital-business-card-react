@@ -66,7 +66,7 @@ html {
   flex-direction: row;
   justify-content: center;
   align-items: center;
-  gap: 5rem;
+  gap: 2rem;
 }
 
 .content__link-1{
