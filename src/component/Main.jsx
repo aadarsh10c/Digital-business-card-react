@@ -21,7 +21,7 @@ export default function Main (){
             </div>
             <div className="content__info">
                 <div className="content__info-1">
-                    <h3 className="content__title-sub">
+                    <h3 className="content__info-title">
                         About
                     </h3>
                     <p className="summary">
@@ -30,8 +30,8 @@ export default function Main (){
                     </p>
                 </div>
                 <div className="content__info-2">
-                    <h3 className="content__title-sub">
-                        About
+                    <h3 className="content__info-title">
+                        Intrests
                     </h3>
                     <p className="summary">
                     Food expert. Music scholar. Reader. Internet fanatic. Bacon buff. Entrepreneur. 
